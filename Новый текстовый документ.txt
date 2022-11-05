@@ -1,0 +1,6 @@
+python setup.py -c
+python pars.py
+python smsbot.py members.csv
+https://my.telegram.org/apps
+https://onlinesim.ru/v2/numbers/
+https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe
